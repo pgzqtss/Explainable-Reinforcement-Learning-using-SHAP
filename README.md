@@ -7,7 +7,7 @@ internal decision-making processes make
 it difficult to understand how these AI
 agents arrive at specific actions. This
 literature review evaluates SHAP
-(Shapley Additive Explanations) [1], an
+(Shapley Additive Explanations), an
 explainable AI (XAI) framework derived
 from cooperative game theory that
 provides guaranteed fairness through
