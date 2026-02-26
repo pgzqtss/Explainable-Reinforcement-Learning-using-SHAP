@@ -1,7 +1,7 @@
 # Explaining Deep Reinforcement Learning using SShapley Additive Explanations
 
 Deep reinforcement learning
-(DRL) is increasingly deployed in real-
+(DRL) is increasingly deployed in real
 world applications, yet its opaque
 internal decision-making processes make
 it difficult to understand how these AI
