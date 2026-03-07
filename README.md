@@ -1,4 +1,4 @@
-# Explaining Deep Reinforcement Learning using SShapley Additive Explanations
+# Explaining Deep Reinforcement Learning using Shapley Additive Explanations
 
 Deep reinforcement learning
 (DRL) is increasingly deployed in real
